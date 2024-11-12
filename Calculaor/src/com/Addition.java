@@ -11,4 +11,11 @@ public class Addition
 		System.out.println("this is add");
 		return x;
 	}
+
+	public int sub()
+	{
+		int x = a-b;
+		System.out.println("this is sub");
+		return x;
+	}
 }
